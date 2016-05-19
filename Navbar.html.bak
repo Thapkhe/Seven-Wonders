@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Seven Wonders of the World</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="Navbarstyle.css" />
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+	</head>
+<body>
+<div class="container">
+
+<nav class="navbar active navbar-fixed-top navbar-inverse col-lg-10 col-lg-offset-1 col-md-12 col-sm-12 col-xs-12">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <li><a class="navbar-brand" href="Navbar.html">Seven Wonders Of World</a></li>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <!--<ul class="nav navbar-nav">
+        <li class="active"><a href="#">Home</a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Page 1 <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Page 1-1</a></li>
+            <li><a href="#">Page 1-2</a></li>
+            <li><a href="#">Page 1-3</a></li>
+          </ul>
+        </li>
+        <li><a href="#">Page 2</a></li>
+        <li><a href="#">Page 3</a></li>
+      </ul>-->
+      <ul class="nav navbar-nav navbar-right">
+        <li class="active"><a href="Navbar.html">Home</a></li>
+        <li><a href="responsivemap.html">Maps</a></li>
+        <li><a href="#">Gallery</a></li>
+        <li><a href="#">Services</a></li>
+        
+      </ul>
+    </div>
+    </div>
+    </nav>
+    
+    
+    <p>
+	
+    </p>
+
+    
+
+
+
+  
+
+  <div class="content row" style="margin-top :20px;">
+
+
+      <article class="col-lg-6 col-lg-offset-1 col-md-7 col-sm-9 col-xs-12">
+
+      <span class="anchor" id="Chichen Itza"></span>
+      
+      <div id="main2" class="main1 thumbnail text-center">
+  
+                <div class="caption">
+                   
+
+
+                <h3>Chichen Itza</h3>
+                <p class="text-justify">Chichen Itza, the most famous Mayan temple city and is the second most popular site for visitors to Mexico. Located on the Yucatan Peninsula, Chichen Itza was a large city built by the Maya people. It thrived from about 600 AD., until 1221, when the power in the region shifted to Mayapan. Today it can be visited by tourists and religious pilgrims alike.
+
+                <a class="btn btn-primary btn-xs" href="Chichen Itza.html"> Read More>></a>
+                </p>
+                </div>
+                
+              
+           
+        </div>
+
+        <span class="anchor" id="Christ the Redeemer"></span>
+
+        <div id="main3" class="main1 thumbnail text-center">
+
+              
+                    <div class="caption" >
+                    
+                    <h3>Christ the Redeemer</h3>
+                    <p class="text-justify">Christ the Redeemer is a statue in Rio de Janeiro, Brazil that was built as a symbol of Brazilian Christianity. In 1850, the idea of building a religious monument was first suggested by a Catholic Priest. It wasn't until 1920 when a group petitioned for support to build a landmark statue that it became a reality. The design was chosen from several ideas and construction began in the 1920s, taking nine years to finish. 
+
+                    <a class="btn btn-primary btn-xs" href="Christ The Redeemer.html"> Read More>></a>
+                    </p>
+                    </div>
+                
+
+               
+        </div>
+
+        <span class="anchor" id="Great Wall of China"></span>
+
+        <div id="main4" class="main1 thumbnail text-center">
+
+               
+                    <div class="caption">
+                    
+                    <h3>Great Wall of China</h3>
+                    <p class="text-justify">Across the historical northern borders of China is a wall built of stone, wood, earth and other materials. It was built to protect the Chinese Empire from invasion as well as to impose border control and control immigration and emigration. It was built by more than one emperor and the majority of its reconstruction occurred during the Ming Dynasty. Archaeological surveys have estimated the length of the wall to be about 13, 171 miles long.
+                    <a class="btn btn-primary btn-xs" href="Great Wall of China.html"> Read More>></a>
+
+                    <!--<a class="btn btn-primary btn-xs" href="https://en.wikipedia.org/wiki/Great_Wall_of_China" target="_blank"> Read More>></a>-->
+                    </p>
+                    </div>
+                
+
+                
+                
+      </div> 
+
+      <span class="anchor" id="Machu Picchu"></span> 
+
+      <div id="main5" class="main1 thumbnail text-center">
+
+               
+                    <div class="caption">
+                    
+                    <h3>Machu Picchu</h3>
+                    <p class="text-justify">
+                    Machu Picchu is an Inca site in Peru that is thought to have been built as an estate for Pachacuti, an Incan emperor. It was built in the 15th century, approximately around 1450. It was abandoned as a place for Inca rulers in about 1572. It was discovered by the outside world in 1911and has since become a tourist attraction. By 1976 at least 30% of the site had been restored and those restoration efforts still continue today. Machu Picchu is also known as the Lost City of the Incas.
+
+                    <a class="btn btn-primary btn-xs" href="Machu Picchu.html"> Read More>></a>
+                    </p>
+                    </div>
+                
+
+               
+    </div>
+
+    <span class="anchor" id="Petra"></span>
+
+    <div id="main6" class="main1 thumbnail text-center">  
+
+               
+                    <div class="caption">
+                    
+                    <h3>Petra</h3>
+                    <p class="text-ustify">
+                    Petra is the most popular attractions in Jordan for tourists and also one of the world's most famous historical archeological sites. It is an ancient city located between the Dead Sea and the Red Sea. The city is half man-made and half carved into the rock and had a water conduit system that is also one of the reasons the city is famous. It is often referred to as the Rose City because of the rose color of the rock from which the city was carved. The Western world knew nothing of Petra until a Swiss explorer introduced it in 1812.
+                    <a class="btn btn-primary btn-xs" href="Petra.html"> Read More>></a>
+                    </p>
+                    </div>
+                
+                
+      </div>
+
+      <span class="anchor" id="Taj Mahal"></span>
+
+      <div id="main7" class="main1 thumbnail text-center">
+
+                
+                    <div class="caption">
+                    
+                    <h3>Taj Mahal</h3>
+                    <p class="text-justify">
+                    The Taj Mahal in India was built by a grief-stricken emperor Shah Jahan. His wife Mumtaz Mahal died in 1631 while giving birth to their 14th child. Construction of the Taj Mahal began one year later and it was built to be the final resting place of Mumtaz Mahal. Different types of marble from all over the world were used to build this mausoleum. Today, millions of people come from all over the world to visit this famous and beautifully designed Islamic tomb in Agra, a city in northern India.
+
+                    <a class="btn btn-primary btn-xs" href="Taj Mahal.html"> Read More>></a>
+                    </p>
+                    </div>
+                
+      </div>
+
+      <span class="anchor" id="Colosseum"></span>
+
+      <div id="main8" class="main1 thumbnail text-center">
+
+
+                    <div class="caption">
+                    
+                    <h3>Colosseum</h3>
+                    <p class="text-justify">The Colosseum is an amphitheatre in the center of the city Rome, in Italy. It is also known as the Flavian Amphiteatre. It is the largest amphitheatre in the world and considered to be one of the greatest Roman architecture and engineering works. It was used for a variety of events and could hold 50,000 people. Earthquakes and stone robbers left it in ruins, but part of it still stands today.
+                    <a class="btn btn-primary btn-xs" href="Colosseum.html"> Read More>></a>
+                    </p>
+                    </div>
+
+
+
+
+        </div>
+
+               
+
+      
+
+
+
+            </article>
+
+
+
+
+
+
+
+
+
+      <aside class="col-lg-3 col-lg-offset-1 col-md-2 col-md-offset-2 col-sm-3 col-xs-12">
+
+      
+      <div>
+        <h2>Seven Wonders</h2>
+        <ul>
+        <li><a href="#Chichen Itza">Chichen Itza</a></li>
+        <li><a href="#Christ the Redeemer">Christ the Redeemer</a></li>
+        <li><a href="#Great Wall of China">Great Wall of China</a></li>
+        <li><a href="#Machu Picchu">Machu Picchu</a></li>
+        <li><a href="#Petra">Petra</a></li>
+        <li><a href="#Taj Mahal">Taj Mahal</a></li>
+        <li><a href="#Colosseum">Colosseum</a></li>
+        </ul>
+        <h2>Explore more</h2>
+        <h2>Gallery</h2>
+      </div>
+      <div style =" height: 300px; overflow: auto;">
+        <div class="thumbnail">
+        <img class="img-responsive" src="Chichen.jpg"/>
+        <h4 class="caption">Chichen Itza
+        <a class="btn btn-default btn-xs" href="https://www.google.co.in/search?q=great+wall+of+china&espv=2&biw=1366&bih=667&source=lnms&tbm=isch&sa=X&ved=0ahUKEwip1fLFwrPMAhVDQI4KHUzADzQQ_AUIBygC#tbm=isch&q=chichen+itza" target="_blank">More>></a></h4>
+        </div>
+        <div class="thumbnail">
+        <img class="img-responsive" src="redeemer.jpg"/>
+        <h4 class="caption">Christ The Redeemer
+        <a class="btn btn-default btn-xs" href="https://www.google.co.in/search?q=great+wall+of+china&espv=2&biw=1366&bih=667&source=lnms&tbm=isch&sa=X&ved=0ahUKEwip1fLFwrPMAhVDQI4KHUzADzQQ_AUIBygC#tbm=isch&q=Christ+The+Redeemer" target="_blank">More>></a></h4>
+        </div>
+        <div class="thumbnail">
+        <img class="img-responsive" src="wall.jpg"/>
+        <h4 class="caption">Great Wall of China
+        <a class="btn btn-default btn-xs" href="https://www.google.co.in/search?q=great+wall+of+china&espv=2&biw=1366&bih=667&source=lnms&tbm=isch&sa=X&ved=0ahUKEwip1fLFwrPMAhVDQI4KHUzADzQQ_AUIBygC" target="_blank">More>></a></h4>
+        </div>
+        <div class="thumbnail">
+        <img class="img-responsive" src="Machu.jpg"/>
+        <h4 class="caption">Machu Picchu
+        <a class="btn btn-default btn-xs" href="https://www.google.co.in/search?q=great+wall+of+china&espv=2&biw=1366&bih=667&source=lnms&tbm=isch&sa=X&ved=0ahUKEwip1fLFwrPMAhVDQI4KHUzADzQQ_AUIBygC#tbm=isch&q=Machu+Picchu" target="_blank">More>></a></h4>
+        </div>
+        <div class="thumbnail">
+        <img class="img-responsive" src="Petra.jpg"/>
+        <h4 class="caption">Petra
+        <a class="btn btn-default btn-xs" href="https://www.google.co.in/search?q=great+wall+of+china&espv=2&biw=1366&bih=667&source=lnms&tbm=isch&sa=X&ved=0ahUKEwip1fLFwrPMAhVDQI4KHUzADzQQ_AUIBygC#tbm=isch&q=petra+jordan" target="_blank">More>></a></h4>
+        </div>
+        <div class="thumbnail">
+        <img class="img-responsive" src="Taj.jpg"/>
+        <h4 class="caption">Taj Mahal
+        <a class="btn btn-default btn-xs" href="https://www.google.co.in/search?q=great+wall+of+china&espv=2&biw=1366&bih=667&source=lnms&tbm=isch&sa=X&ved=0ahUKEwip1fLFwrPMAhVDQI4KHUzADzQQ_AUIBygC#tbm=isch&q=Taj+Mahal" target="_blank">More>></a></h4>
+        </div>
+        <div class="thumbnail">
+        <img class="img-responsive" src="Colosseum.jpg"/>
+        <h4 class="caption">Colosseum
+        <a class="btn btn-default btn-xs" href="https://www.google.co.in/search?q=great+wall+of+china&espv=2&biw=1366&bih=667&source=lnms&tbm=isch&sa=X&ved=0ahUKEwip1fLFwrPMAhVDQI4KHUzADzQQ_AUIBygC#tbm=isch&q=Colosseum" target="_blank">More>></a></h4>
+        </div>
+      </div>
+      </aside>
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+<div style = "margin-top: -26px; margin-bottom: 47px;" class="content col-lg-10 col-lg-offset-1 col-md-11 col-md-offset-1 col-sm-12 col-xs-12">
+
+
+
+
+
+    <ul class="list-unstyled list-inline">
+      <li class="btn btn-default"><a href="navbar.html">Home</a></li>
+      <li class="btn btn-default">About</li>
+      <li class="btn btn-default">Services</li>
+      <li class="btn btn-default">Contact</li>
+   
+    </ul>
+
+</div>
+
+
+    
+    <div id="footer" class="navbar-fixed-bottom navbar-inverse container col-lg-10 col-lg-offset-1 col-md-12 col-sm-12 col-xs-12">
+    Copyright &copy; 1996 Han.
+    </div>
+   
+    
+    
+ 
+</div>
+<script type="text/javascript" src="Navbar.js"></script>
+
+</body>
+</html>
+
+
+
+
+
+<!--window.onscroll = function(e) {
+  console.log(document.body.scrollTop)
+  if (document.body.scrollTop > 150) {
+     document.getElementsByClassName('navi')[0].style.top = "2px"
+  }
+}-->

@@ -1,0 +1,28 @@
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+.anchor {
+  display: block;
+  height: 45px;
+  margin-top: -45px;
+  visibility: hidden;
+}
+
+#footer {
+	margin-top: 15px;
+	clear: both;
+	padding: 10px;
+	background-color: #222;
+	color: white;
+	text-align: right;
+}

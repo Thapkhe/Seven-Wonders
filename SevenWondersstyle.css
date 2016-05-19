@@ -1,0 +1,34 @@
+p {
+	text-align: justify;
+}
+
+h3 {
+	margin-top: 0px;
+    margin-bottom: -10px;
+}
+
+#footer {
+	margin-top: 15px;
+	clear: both;
+	padding: 10px;
+	background-color: #222;
+	color: white;
+	text-align: right;
+}
+
+article h4 {
+	margin-top: -5px;
+}
+
+h4 {
+	text-decoration: underline;
+	font-weight: bold;
+	color: blue;
+}
+hr {
+	border-top: 1px solid #999;
+}
+
+aside h4 {
+	margin-top: -5px;
+}

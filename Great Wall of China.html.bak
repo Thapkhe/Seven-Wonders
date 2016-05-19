@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Great Wall of China</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="SevenWondersstyle.css" />
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+ 
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
+	<!--script type="text/javascript" src="engine0/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section --></head>
+  
+
+
+<body>
+<div class="container">
+
+<nav class="navbar active navbar-fixed-top navbar-inverse col-lg-10 col-lg-offset-1 col-md-12 col-sm-12 col-xs-12">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <li><a class="navbar-brand" href="Navbar.html">Seven Wonders Of World</a></li>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="Navbar.html">Home</a></li>
+        <li><a href="responsivemap.html">Maps</a></li>
+        <li><a href="#">Image</a></li>
+        <li><a href="#">Services</a></li>
+        
+      </ul>
+    </div>
+    </div>
+    </nav>
+
+
+  <div class="content row" style="margin-top :70px;">
+
+  <div class="col-lg-10 col-lg-offset-1 col-md-8 col-md-offset-2 col-sm-12 col-xs-12">
+
+    <h3>Great Wall of China: China</h3>
+    <hr>
+
+  </div>
+      
+
+      <article class="col-lg-4 col-lg-offset-1 col-md-4 col-sm-9 col-xs-12">
+
+      <h4>Description:</h4>
+      <img class="thumbnail img-responsive" src="wall.jpg">
+                     
+      <p>The Great Wall of China was built to link existing fortifications into a united defense system and better keep invading Mongol tribes out of China. It is the largest man-made monument ever to have been built and it is disputed that it is the only one visible from space. Many thousands of people must have given their lives to build this colossal construction.<br>
+      </p>
+      
+
+
+   
+  
+               
+
+      
+
+
+
+      </article>
+	
+
+
+
+
+
+
+
+
+      <aside class="col-lg-5 col-lg-offset-1 col-md-5 col-md-offset-2 col-sm-3 col-xs-12">
+      
+
+      <h4>Images</h4>
+      <p>
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container0" class="thumbnail">
+	<div class="ws_images"><ul>
+		<li><img src="data0/images/the_great_wall.jpg" alt="The Great Wall" title="The Great Wall" id="wows0_0"/></li>
+		<li><img src="data0/images/the_great_wall2.jpg" alt="The Great Wall-2" title="The Great Wall-2" id="wows0_1"/></li>
+		<li><img src="data0/images/the_great_wall3.jpg" alt="The Great Wall-3" title="The Great Wall-3" id="wows0_2"/></li>
+		<li><img src="data0/images/the_great_wall4.jpg" alt="The Great Wall-4" title="The Great Wall-4" id="wows0_3"/></li>
+		<li><img src="data0/images/the_great_wall5.jpg" alt="The Great Wall-5" title="The Great Wall-5" id="wows0_4"/></li>
+		<li><img src="data0/images/the_great_wall6.jpg" alt="The Great Wall-6" title="The Great Wall-6" id="wows0_5"/></li>
+		<li><img src="data0/images/the_great_wall7.jpg" alt="The Great Wall-7" title="The Great Wall-7" id="wows0_6"/></li>
+		<li><a href="http://wowslider.com/vi"><img src="data0/images/the_great_wall8.jpg" alt="image slider" title="The Great Wall-8" id="wows0_7"/></a></li>
+		<li><img src="data0/images/the_great_wall9.jpg" alt="The Great Wall-9" title="The Great Wall-9" id="wows0_8"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="The Great Wall"><span><img src="data0/tooltips/the_great_wall.jpg" alt="The Great Wall"/>1</span></a>
+		<a href="#" title="The Great Wall-2"><span><img src="data0/tooltips/the_great_wall2.jpg" alt="The Great Wall-2"/>2</span></a>
+		<a href="#" title="The Great Wall-3"><span><img src="data0/tooltips/the_great_wall3.jpg" alt="The Great Wall-3"/>3</span></a>
+		<a href="#" title="The Great Wall-4"><span><img src="data0/tooltips/the_great_wall4.jpg" alt="The Great Wall-4"/>4</span></a>
+		<a href="#" title="The Great Wall-5"><span><img src="data0/tooltips/the_great_wall5.jpg" alt="The Great Wall-5"/>5</span></a>
+		<a href="#" title="The Great Wall-6"><span><img src="data0/tooltips/the_great_wall6.jpg" alt="The Great Wall-6"/>6</span></a>
+		<a href="#" title="The Great Wall-7"><span><img src="data0/tooltips/the_great_wall7.jpg" alt="The Great Wall-7"/>7</span></a>
+		<a href="#" title="The Great Wall-8"><span><img src="data0/tooltips/the_great_wall8.jpg" alt="The Great Wall-8"/>8</span></a>
+		<a href="#" title="The Great Wall-9"><span><img src="data0/tooltips/the_great_wall9.jpg" alt="The Great Wall-9"/>9</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.com">wowslider.com</a> by WOWSlider.com v8.7</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine0/wowslider.js"></script>
+	<script type="text/javascript" src="engine0/script.js"></script>
+	<!-- End WOWSlider.com BODY section -->
+      
+      </p>
+      </aside>
+
+  <div class="col-lg-10 col-lg-offset-1 col-md-8 col-md-offset-2 col-sm-12 col-xs-12">
+    <h4>Know more about Great Wall▼</h4>
+      <ul>
+
+
+      <li>Chichen Itza also means ‘at the mouth of the well of the Itza'.</li><br>
+      
+      <li>In about 600 AD. Chichen Itza had started to gain importance in the region. Between 900 and 1050 AD. Chichen Itza had become a powerful capital. It also controlled northern and central Yucatan at the time.</li><br>
+
+      <li>It was one of the largest Maya cities and also had the most diverse population in any Maya population. It covered five square kilometers.</li><br>
+
+      <li>Many of the Maya people that lived in Chichen Itza were very skilled craftsmen, including sculptors, weavers, jewelers and potters.</li><br>
+
+      <li>There is a wide variety of architectural styles that is attributed to the fact that Chichen Itza had such diverse population and culture.</li><br>
+
+      <li>The people of Chichen Itza built strong allies with regional tribes and this helped them thrive for two centuries.</li><br>
+
+      <li>There is archaeological evidence to support the theory that civil war broke out in about 1221. And the power of Yucatan shifted to Mayapan, leaving Chichen Itza behind.</li><br>
+
+      <li>All the buildings of Chichen Itza are made from stone. It's also thought that the Maya did no use the wheel to build any of their temples, pyramids or palaces.</li><br>
+
+      <li>Some of the most famous buildings in Chichen Itza that have survived include: The Warrior's Temple, El Castillo, and The Great Ball Court.</li><br>
+
+      <li>Chichen Itza is considered to be one the Seven Wonders of the New World.</li><br>
+
+      <li>Part of what sparked an interest in Chichen Itza was a book (travel journal) written by John Lloyd Stephens in 1843 called Incidents of Travel in Yucatan.</li><br>
+
+      <li>Further exploration of the city began from the interest and imagination of his readers. By 1875 a statue had been recovered and excavation continued.</li><br>
+
+      <li>Approximately 1.2 million people visit the ruins of Chichen Itza every year.</li><br>
+
+      </ul>
+
+  </div>
+
+
+  </div>
+
+  <div style = "margin-bottom: 50px;" class="content col-lg-10 col-lg-offset-1 col-md-11 col-md-offset-1 col-sm-12 col-xs-12">
+
+
+
+
+
+    <ul class="list-unstyled list-inline">
+      <li class="btn btn-default" style="width: 70px;"><a href="navbar.html">Home#</a></li>
+      <li class="btn btn-default" style="width: 70px;"><a href="Great Wall of China.html">Top↑</a></li>
+      <li class="btn btn-default"><a href="Christ The Redeemer.html">Previous<<</li>
+      <li class="btn btn-default" style="width: 70px;"><a href="Machu Picchu.html">Next>></li>
+   
+    </ul>
+
+</div>
+
+
+    
+    <div id="footer" class="navbar-fixed-bottom navbar-inverse container col-lg-10 col-lg-offset-1 col-md-12 col-sm-12 col-xs-12">
+    Copyright &copy; 1996 Han.
+    </div>
+   
+    
+    
+ 
+</div>
+<script type="text/javascript" src="Navbar.js"></script>
+
+</body>
+</html>
