@@ -172,7 +172,7 @@
     <ul class="list-unstyled list-inline">
       <li class="btn btn-default" style="width: 70px;"><a href="index.html">Home#</a></li>
       <li class="btn btn-default" style="width: 70px;"><a href="Chichen Itza.html">Top↑</a></li>
-      <li class="btn btn-default"><a href="Colosseum.html">Previous<<</li>
+      <li class="btn btn-default"><a href="Colosseum.html">Pre<<</li>
       <li class="btn btn-default" style="width: 70px;"><a href="Christ The Redeemer.html">Next>></li>
    
     </ul>
