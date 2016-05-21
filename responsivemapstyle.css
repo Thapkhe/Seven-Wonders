@@ -26,3 +26,16 @@
 	color: white;
 	text-align: right;
 }
+
+hr {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border-top: 1px solid #999;
+}
+
+h2 {
+  
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: -10px;
+}

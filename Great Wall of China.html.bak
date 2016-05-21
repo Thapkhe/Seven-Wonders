@@ -166,7 +166,7 @@
     <ul class="list-unstyled list-inline">
       <li class="btn btn-default" style="width: 70px;"><a href="index.html">Home#</a></li>
       <li class="btn btn-default" style="width: 70px;"><a href="Great Wall of China.html">Top↑</a></li>
-      <li class="btn btn-default"><a href="Christ The Redeemer.html">Previous<<</li>
+      <li class="btn btn-default"><a href="Christ The Redeemer.html">Pre<<</li>
       <li class="btn btn-default" style="width: 70px;"><a href="Machu Picchu.html">Next>></li>
    
     </ul>
